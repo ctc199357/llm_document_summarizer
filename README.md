@@ -11,9 +11,9 @@ This repositpry guides you:
 - Chain the LLM with the prompt with using 'Langchain'
 
 
-
+## How to start the LLM summarizer?
 1. Git pull the Repo
 2. trigger the streamlit interface
-   '''
+   ```
    streamlit run app.py
-   '''
+   ```
