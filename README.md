@@ -9,3 +9,11 @@ This repositpry guides you:
 - How to start the front end interface by 'streamlit'
 - How to create prompt template by using 'Langchain'
 - Chain the LLM with the prompt with using 'Langchain'
+
+
+
+1. Git pull the Repo
+2. trigger the streamlit interface
+   '''
+   streamlit run app.py
+   '''
