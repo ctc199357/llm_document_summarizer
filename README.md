@@ -17,3 +17,11 @@ This repositpry guides you:
    ```
    streamlit run app.py
    ```
+
+
+## Further Improvement: 
+
+1. Solve the speed issue for OpenAI model
+2. Solve the pdf document read function (Now: Not able to transform the pdf file in a nice format)
+3. Support more types of documents (e.g. txt, png, table format)
+4. Deploy on cloud (AWS/Azure)
